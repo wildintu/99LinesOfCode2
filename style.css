@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+    text-align: center;
+}
+
+h1 {
+    color: lightblue;
+    font-family: Oswald;
+}
+
+.friend {
+    background-color: lightblue;
+    font-family: Oswald;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-family: Oswald;
+}
